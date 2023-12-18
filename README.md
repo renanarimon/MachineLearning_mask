@@ -1,4 +1,7 @@
-# MachineLearning_mask
+# Mask Classification - Machine Learning
+
+![image](https://github.com/renanarimon/MachineLearning_mask/assets/77155986/6e6ff16a-baee-444d-9d05-114491b930a0)
+
 # overview
 ### DataSet
 The dataset is from 'kaggle': https://www.kaggle.com/datasets/shiekhburhan/face-mask-dataset </br>
